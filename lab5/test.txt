@@ -1,0 +1,32 @@
+<custom_item>
+ type: REGISTRY_SETTING
+ description: "5.2 Ensure 'Bluetooth Support Service (bthserv)' is set to 'Disabled'"
+ value_data: "4"
+ reg_key: "HKLM\SYSTEM\CurrentControlSet\Services\bthserv"
+ reg_item: "Start"
+</custom_item>
+
+<custom_item>
+ type: REGISTRY_SETTING
+ description: "5.9 Ensure 'Link-Layer Topology Discovery Mapper (lltdsvc)' is set to 'Disabled'"
+ value_data: "4"
+ reg_key: "HKLM\SYSTEM\CurrentControlSet\Services\lltdsvc"
+ reg_item: "Start"
+</custom_item>
+
+<custom_item>
+ type: REGISTRY_SETTING
+ description: "5.17 Ensure 'Peer Networking Identity Manager (p2pimsvc)' is set to 'Disabled'"
+ value_data: "4"
+ reg_key: "HKLM\SYSTEM\CurrentControlSet\Services\p2pimsvc"
+ reg_item: "Start"
+</custom_item>
+
+<custom_item>
+ type: REGISTRY_SETTING
+ description: "5.21 Ensure 'Remote Desktop Configuration (SessionEnv)' is set to 'Disabled'"
+ value_data: "4"
+ reg_key: "HKLM\SYSTEM\CurrentControlSet\Services\SessionEnv"
+ reg_item: "Start"
+</custom_item>
+
