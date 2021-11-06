@@ -1,0 +1,1083 @@
+1 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+2 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3 
+
+3 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\4 
+
+4 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+5 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+6 ) Path not found.
+HKLM\System\CurrentControlSet\Control\Lsa 
+
+7 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+8 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\WinRM\Client 
+
+9 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\WinRM\Service 
+
+10 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\4 
+
+11 ) Path not found.
+HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System 
+
+12 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3 
+
+13 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\4 
+
+14 ) Path not found.
+HKLM\Software\Policies\Microsoft\WindowsInkWorkspace 
+
+15 ) Path not found.
+HKLM\Software\Microsoft\WcmSvc\wifinetworkmanager\config 
+
+16 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\4 
+
+17 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\4 
+
+18 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3 
+
+19 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\4 
+
+20 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3 
+
+21 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\4 
+
+22 ) Path not found.
+HKLM\SOFTWARE\Policies\Microsoft\FVE 
+
+23 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings 
+
+24 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\4 
+
+25 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\Windows Search 
+
+26 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3 
+
+27 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\4 
+
+28 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+29 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3 
+
+30 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\4 
+
+31 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3 
+
+32 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\4 
+
+33 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3 
+
+34 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\4 
+
+35 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3 
+
+36 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\4 
+
+37 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3 
+
+38 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\4 
+
+39 ) Path not found.
+HKLM\Software\Policies\Microsoft\Internet Explorer\Download 
+
+40 ) Path not found.
+HKLM\SOFTWARE\Policies\Microsoft\Power\PowerSettings\abfc2519-3608-4c2a-94ea-171b0ed546ab 
+
+41 ) Path not found.
+HKLM\SOFTWARE\Policies\Microsoft\Power\PowerSettings\abfc2519-3608-4c2a-94ea-171b0ed546ab 
+
+42 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\WinRM\Client 
+
+43 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\WinRM\Service 
+
+44 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3 
+
+45 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\4 
+
+46 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\Installer 
+
+47 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\Installer 
+
+48 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows NT\Terminal Services 
+
+49 ) Path not found.
+HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System 
+
+50 ) Path not found.
+HKLM\Software\Policies\Microsoft\WindowsFirewall\PublicProfile 
+
+51 ) Path not found.
+HKLM\Software\Policies\Microsoft\WindowsFirewall\PublicProfile 
+
+52 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+53 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+54 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+55 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+56 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+57 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+58 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+59 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+60 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+61 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+62 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+63 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+64 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+65 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+66 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+67 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+68 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+69 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+70 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+71 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+72 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+73 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+74 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+75 ) Path not found.
+HKLM\System\CurrentControlSet\Control\Lsa 
+
+76 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3 
+
+77 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\4 
+
+78 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+79 ) Path not found.
+HKLM\SYSTEM\CurrentControlSet\Policies\EarlyLaunch 
+
+80 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings 
+
+81 ) Path not found.
+HKLM\Software\Policies\Microsoft\Internet Explorer\Download 
+
+82 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows Defender\Windows Defender Exploit Guard\ASR\Rules 
+
+83 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows Defender\Windows Defender Exploit Guard\ASR\Rules 
+
+84 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows Defender\Windows Defender Exploit Guard\ASR\Rules 
+
+85 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows Defender\Windows Defender Exploit Guard\ASR\Rules 
+
+86 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows Defender\Windows Defender Exploit Guard\ASR\Rules 
+
+87 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows Defender\Windows Defender Exploit Guard\ASR\Rules 
+
+88 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows Defender\Windows Defender Exploit Guard\ASR\Rules 
+
+89 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows Defender\Windows Defender Exploit Guard\ASR 
+
+90 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows Defender\Windows Defender Exploit Guard\ASR\Rules 
+
+91 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows Defender\Windows Defender Exploit Guard\ASR\Rules 
+
+92 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows Defender\Windows Defender Exploit Guard\ASR\Rules 
+
+93 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows Defender\Windows Defender Exploit Guard\ASR\Rules 
+
+94 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows Defender\Windows Defender Exploit Guard\ASR\Rules 
+
+95 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows Defender\Windows Defender Exploit Guard\ASR\Rules 
+
+96 ) Path not found.
+HKLM\Software\Policies\Microsoft\MicrosoftEdge\Main 
+
+97 ) Path not found.
+HKLM\SYSTEM\CurrentControlSet\Services\MrxSmb10 
+
+98 ) Path not found.
+HKLM\SYSTEM\CurrentControlSet\Services\LanmanServer\Parameters 
+
+99 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+100 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+101 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+102 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows NT\Terminal Services 
+
+103 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+104 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\System 
+
+105 ) Path not found.
+HKLM\Software\Policies\Microsoft\MicrosoftEdge\PhishingFilter 
+
+106 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\System 
+
+107 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows Defender 
+
+108 ) Path not found.
+HKLM\Software\Policies\Microsoft\Biometrics\FacialFeatures 
+
+109 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\Group Policy\{35378EAC-683F-11D2-A89A-00C04FBBCFA2} 
+
+110 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\Group Policy\{35378EAC-683F-11D2-A89A-00C04FBBCFA2} 
+
+111 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows Defender\Spynet 
+
+112 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+113 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+114 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+115 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+116 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+117 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+118 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+119 ) Path not found.
+HKLM\SOFTWARE\Policies\Microsoft\FVE 
+
+120 ) Path not found.
+HKLM\System\CurrentControlSet\Policies\Microsoft\FVE 
+
+121 ) Path not found.
+HKLM\SOFTWARE\Policies\Microsoft\FVE 
+
+122 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\Explorer 
+
+123 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\WinRM\Client 
+
+124 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\WinRM\Service 
+
+125 ) Path not found.
+HKLM\Software\Policies\Microsoft\WindowsFirewall\PrivateProfile 
+
+126 ) Path not found.
+HKLM\Software\Policies\Microsoft\WindowsFirewall\PublicProfile 
+
+127 ) Path not found.
+HKLM\Software\Policies\Microsoft\Internet Explorer\Main 
+
+128 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows NT\Terminal Services 
+
+129 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows NT\Terminal Services 
+
+130 ) Path not found.
+HKU\Software\Policies\Microsoft\Windows\CloudContent 
+
+131 ) Path not found.
+HKLM\System\CurrentControlSet\Services\Netlogon\Parameters 
+
+132 ) Path not found.
+HKLM\System\CurrentControlSet\Services\Netlogon\Parameters 
+
+133 ) Path not found.
+HKLM\System\CurrentControlSet\Services\Netlogon\Parameters 
+
+134 ) Path not found.
+HKLM\System\CurrentControlSet\Services\Netlogon\Parameters 
+
+135 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3 
+
+136 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\1 
+
+137 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\0 
+
+138 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\4 
+
+139 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\2 
+
+140 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3 
+
+141 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\4 
+
+142 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3 
+
+143 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\4 
+
+144 ) Path not found.
+HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\kernel 
+
+145 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+146 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3 
+
+147 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\4 
+
+148 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3 
+
+149 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\4 
+
+150 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\LanmanWorkstation 
+
+151 ) Path not found.
+HKLM\Software\Policies\Microsoft Services\AdmPwd 
+
+152 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\GameDVR 
+
+153 ) Path not found.
+HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System\CredSSP\Parameters 
+
+154 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+155 ) Path not found.
+HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\CredUI 
+
+156 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\System 
+
+157 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\Kernel DMA Protection 
+
+158 ) Path not found.
+HKLM\Software\Policies\Microsoft\WindowsFirewall\PrivateProfile 
+
+159 ) Path not found.
+HKLM\Software\Policies\Microsoft\WindowsFirewall\PublicProfile 
+
+160 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+161 ) Path not found.
+HKLM\Software\Policies\Microsoft\WindowsFirewall 
+
+162 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\NetworkProvider\HardenedPaths 
+
+163 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\NetworkProvider\HardenedPaths 
+
+164 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+165 ) Path not found.
+HKLM\Software\Policies\Microsoft\WindowsFirewall\DomainProfile 
+
+166 ) Path not found.
+HKLM\Software\Policies\Microsoft\WindowsFirewall\PrivateProfile 
+
+167 ) Path not found.
+HKLM\Software\Policies\Microsoft\WindowsFirewall\PublicProfile 
+
+168 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3 
+
+169 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\4 
+
+170 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3 
+
+171 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\1 
+
+172 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\4 
+
+173 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\2 
+
+174 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+175 ) Path not found.
+HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System 
+
+176 ) Path not found.
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\Winlogon 
+
+177 ) Path not found.
+HKLM\Software\Policies\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_DISABLE_MK_PROTOCOL 
+
+178 ) Path not found.
+HKLM\Software\Policies\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_DISABLE_MK_PROTOCOL 
+
+179 ) Path not found.
+HKLM\Software\Policies\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_DISABLE_MK_PROTOCOL 
+
+180 ) Path not found.
+HKLM\Software\Policies\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_MIME_HANDLING 
+
+181 ) Path not found.
+HKLM\Software\Policies\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_MIME_HANDLING 
+
+182 ) Path not found.
+HKLM\Software\Policies\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_MIME_HANDLING 
+
+183 ) Path not found.
+HKLM\Software\Policies\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_MIME_SNIFFING 
+
+184 ) Path not found.
+HKLM\Software\Policies\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_MIME_SNIFFING 
+
+185 ) Path not found.
+HKLM\Software\Policies\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_MIME_SNIFFING 
+
+186 ) Path not found.
+HKLM\Software\Policies\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_RESTRICT_ACTIVEXINSTALL 
+
+187 ) Path not found.
+HKLM\Software\Policies\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_RESTRICT_ACTIVEXINSTALL 
+
+188 ) Path not found.
+HKLM\Software\Policies\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_RESTRICT_ACTIVEXINSTALL 
+
+189 ) Path not found.
+HKLM\Software\Policies\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_RESTRICT_FILEDOWNLOAD 
+
+190 ) Path not found.
+HKLM\Software\Policies\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_RESTRICT_FILEDOWNLOAD 
+
+191 ) Path not found.
+HKLM\Software\Policies\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_RESTRICT_FILEDOWNLOAD 
+
+192 ) Path not found.
+HKLM\Software\Policies\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_SECURITYBAND 
+
+193 ) Path not found.
+HKLM\Software\Policies\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_SECURITYBAND 
+
+194 ) Path not found.
+HKLM\Software\Policies\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_SECURITYBAND 
+
+195 ) Path not found.
+HKLM\Software\Policies\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_WINDOW_RESTRICTIONS 
+
+196 ) Path not found.
+HKLM\Software\Policies\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_WINDOW_RESTRICTIONS 
+
+197 ) Path not found.
+HKLM\Software\Policies\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_WINDOW_RESTRICTIONS 
+
+198 ) Path not found.
+HKLM\Software\Policies\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_ZONE_ELEVATION 
+
+199 ) Path not found.
+HKLM\Software\Policies\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_ZONE_ELEVATION 
+
+200 ) Path not found.
+HKLM\Software\Policies\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_ZONE_ELEVATION 
+
+201 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap 
+
+202 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3 
+
+203 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\1 
+
+204 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\0 
+
+205 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Lockdown_Zones\1 
+
+206 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Lockdown_Zones\0 
+
+207 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Lockdown_Zones\4 
+
+208 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Lockdown_Zones\2 
+
+209 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\4 
+
+210 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\2 
+
+211 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows Defender\Spynet 
+
+212 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3 
+
+213 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\4 
+
+214 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\AppPrivacy 
+
+215 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+216 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+217 ) Path not found.
+HKLM\Software\Policies\Microsoft\WindowsFirewall\PrivateProfile\Logging 
+
+218 ) Path not found.
+HKLM\Software\Policies\Microsoft\WindowsFirewall\PublicProfile\Logging 
+
+219 ) Path not found.
+HKLM\Software\Policies\Microsoft\WindowsFirewall\PrivateProfile\Logging 
+
+220 ) Path not found.
+HKLM\Software\Policies\Microsoft\WindowsFirewall\PublicProfile\Logging 
+
+221 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3 
+
+222 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\4 
+
+223 ) Path not found.
+HKLM\SYSTEM\CurrentControlSet\Services\Tcpip6\Parameters 
+
+224 ) Path not found.
+HKLM\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters 
+
+225 ) Path not found.
+HKLM\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters 
+
+226 ) Path not found.
+HKLM\SYSTEM\CurrentControlSet\Services\Netbt\Parameters 
+
+227 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+228 ) Path not found.
+HKLM\System\CurrentControlSet\Services\LanmanWorkstation\Parameters 
+
+229 ) Path not found.
+HKLM\System\CurrentControlSet\Services\LanmanWorkstation\Parameters 
+
+230 ) Path not found.
+HKLM\System\CurrentControlSet\Services\LanManServer\Parameters 
+
+231 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+232 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3 
+
+233 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\4 
+
+234 ) Path not found.
+HKLM\SYSTEM\CurrentControlSet\Services\Netbt\Parameters 
+
+235 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+236 ) Path not found.
+HKLM\System\CurrentControlSet\Control\Lsa 
+
+237 ) Path not found.
+HKLM\System\CurrentControlSet\Control\Lsa 
+
+238 ) Path not found.
+HKLM\System\CurrentControlSet\Services\LanManServer\Parameters 
+
+239 ) Path not found.
+HKLM\System\CurrentControlSet\Control\Lsa 
+
+240 ) Path not found.
+HKLM\System\CurrentControlSet\Control\Lsa\MSV1_0 
+
+241 ) Path not found.
+HKLM\System\CurrentControlSet\Control\Lsa 
+
+242 ) Path not found.
+HKLM\System\CurrentControlSet\Control\Lsa 
+
+243 ) Path not found.
+HKLM\System\CurrentControlSet\Services\LDAP 
+
+244 ) Path not found.
+HKLM\System\CurrentControlSet\Control\Lsa\MSV1_0 
+
+245 ) Path not found.
+HKLM\System\CurrentControlSet\Control\Lsa\MSV1_0 
+
+246 ) Path not found.
+HKLM\Software\Policies\Microsoft\WindowsFirewall\DomainProfile 
+
+247 ) Path not found.
+HKLM\Software\Policies\Microsoft\WindowsFirewall\PrivateProfile 
+
+248 ) Path not found.
+HKLM\Software\Policies\Microsoft\WindowsFirewall\PublicProfile 
+
+249 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+250 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+251 ) Path not found.
+HKLM\Software\Policies\Microsoft\Internet Explorer\PhishingFilter 
+
+252 ) Path not found.
+HKLM\Software\Policies\Microsoft\Internet Explorer\PhishingFilter 
+
+253 ) Path not found.
+HKLM\Software\Policies\Microsoft\MicrosoftEdge\PhishingFilter 
+
+254 ) Path not found.
+HKLM\Software\Policies\Microsoft\MicrosoftEdge\PhishingFilter 
+
+255 ) Path not found.
+HKLM\Software\Policies\Microsoft\MicrosoftEdge\Internet Settings 
+
+256 ) Path not found.
+HKLM\Software\Policies\Microsoft\Internet Explorer\Feeds 
+
+257 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\Personalization 
+
+258 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\Personalization 
+
+259 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings 
+
+260 ) Path not found.
+HKLM\SOFTWARE\Policies\Microsoft\Windows\DeviceInstall\Restrictions\DenyDeviceClasses 
+
+261 ) Path not found.
+HKLM\SOFTWARE\Policies\Microsoft\Windows\DeviceInstall\Restrictions 
+
+262 ) Path not found.
+HKLM\SOFTWARE\Policies\Microsoft\Windows\DeviceInstall\Restrictions 
+
+263 ) Path not found.
+HKLM\Software\Policies\Microsoft\Internet Explorer\PhishingFilter 
+
+264 ) Path not found.
+HKLM\Software\Policies\Microsoft\Internet Explorer\Security\ActiveX 
+
+265 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows Defender\Windows Defender Exploit Guard\Network Protection 
+
+266 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+267 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\WcmSvc\GroupPolicy 
+
+268 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\Network Connections 
+
+269 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+270 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CredentialsDelegation 
+
+271 ) Path not found.
+HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\Ext 
+
+272 ) Path not found.
+HKLM\Software\Policies\Microsoft\Power\PowerSettings\0e796bdb-100d-47d6-a2d5-f7d2daa51f51 
+
+273 ) Path not found.
+HKLM\Software\Policies\Microsoft\Power\PowerSettings\0e796bdb-100d-47d6-a2d5-f7d2daa51f51 
+
+274 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows NT\Terminal Services 
+
+275 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+276 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+277 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows NT\Rpc 
+
+278 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3 
+
+279 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\4 
+
+280 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3 
+
+281 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\4 
+
+282 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\4 
+
+283 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows Defender\Real-Time Protection 
+
+284 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows Defender\Scan 
+
+285 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\4 
+
+286 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\4 
+
+287 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings 
+
+288 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings 
+
+289 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings 
+
+290 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows Defender\MpEngine 
+
+291 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows Defender\Spynet 
+
+292 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows NT\Terminal Services 
+
+293 ) Path not found.
+HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer 
+
+294 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3 
+
+295 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\4 
+
+296 ) Path not found.
+HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System 
+
+297 ) Path not found.
+HKLM\Software\Policies\Microsoft\WindowsFirewall\PrivateProfile\Logging 
+
+298 ) Path not found.
+HKLM\Software\Policies\Microsoft\WindowsFirewall\PublicProfile\Logging 
+
+299 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\EventLog\Application 
+
+300 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\EventLog\Security 
+
+301 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\EventLog\System 
+
+302 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\AxInstaller 
+
+303 ) Path not found.
+HKLM\System\CurrentControlSet\Control\Session Manager 
+
+304 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+305 ) Path not found.
+HKLM\SOFTWARE\Policies\Microsoft\Windows\DeviceGuard 
+
+306 ) Path not found.
+HKLM\SOFTWARE\Policies\Microsoft\Windows\DeviceGuard 
+
+307 ) Path not found.
+HKLM\SOFTWARE\Policies\Microsoft\Windows\DeviceGuard 
+
+308 ) Path not found.
+HKLM\SOFTWARE\Policies\Microsoft\Windows\DeviceGuard 
+
+309 ) Path not found.
+HKLM\SOFTWARE\Policies\Microsoft\Windows\DeviceGuard 
+
+310 ) Path not found.
+HKLM\SOFTWARE\Policies\Microsoft\Windows\DeviceGuard 
+
+311 ) Path not found.
+HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer 
+
+312 ) Path not found.
+HKLM\Software\Policies\Microsoft\Internet Explorer\Restrictions 
+
+313 ) Path not found.
+HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer 
+
+314 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CloudContent 
+
+315 ) Path not found.
+HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\Ext 
+
+316 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows NT\Printers 
+
+317 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings 
+
+318 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows NT\DNSClient 
+
+319 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows Defender\Real-Time Protection 
+
+320 ) Path not found.
+HKLM\Software\Policies\Microsoft\Internet Explorer\Security 
+
+321 ) Path not found.
+HKU\Software\Policies\Microsoft\Windows\CurrentVersion\PushNotifications 
+
+322 ) Path not found.
+HKLM\Software\Policies\Microsoft\Internet Explorer\Main 
+
+323 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3 
+
+324 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\4 
+
+325 ) Path not found.
+HKLM\Software\Policies\Microsoft\Internet Explorer\Main 
+
+326 ) Path not found.
+g (reg_key) doesn't exist for current item 
+
+327 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\PowerShell\ScriptBlockLogging 
+
+328 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3 
+
+329 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\4 
+
+330 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3 
+
+331 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Lockdown_Zones\3 
+
+332 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Lockdown_Zones\4 
+
+333 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\4 
+
+334 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings 
+
+335 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\System 
+
+336 ) Path not found.
+HKU\Software\Policies\Microsoft\Internet Explorer\Main 
+
+337 ) Path not found.
+HKU\Software\Policies\Microsoft\Internet Explorer\Main 
+
+338 ) Path not found.
+HKU\Software\Policies\Microsoft\Internet Explorer\Control Panel 
+
+339 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3 
+
+340 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\4 
+
+341 ) Path not found.
+HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System 
+
+342 ) Path not found.
+HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System 
+
+343 ) Path not found.
+HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System 
+
+344 ) Path not found.
+HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System 
+
+345 ) Path not found.
+HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System 
+
+346 ) Path not found.
+HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System 
+
+347 ) Path not found.
+HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System 
+
+348 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3 
+
+349 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\4 
+
+350 ) Path not found.
+HKLM\SYSTEM\CurrentControlSet\Control\SecurityProviders\WDigest 
+
+351 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3 
+
+352 ) Path not found.
+HKLM\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\4 
+
+353 ) Path not found.
+HKLM\Software\Policies\Microsoft\WindowsFirewall\DomainProfile\Logging 
+
+354 ) Path not found.
+HKLM\Software\Policies\Microsoft\WindowsFirewall\DomainProfile\Logging 
+
+355 ) Path not found.
+HKLM\Software\Policies\Microsoft\WindowsFirewall\DomainProfile\Logging 
+
+356 ) Path not found.
+HKLM\Software\Policies\Microsoft\WindowsFirewall\DomainProfile 
+
+357 ) Path not found.
+HKLM\Software\Policies\Microsoft\WindowsFirewall\DomainProfile 
+
+358 ) Path not found.
+HKLM\SYSTEM\CurrentControlSet\Services\XboxGipSvc 
+
+359 ) Path not found.
+HKLM\SYSTEM\CurrentControlSet\Services\XblAuthManager 
+
+360 ) Path not found.
+HKLM\SYSTEM\CurrentControlSet\Services\XblGameSave 
+
+361 ) Path not found.
+HKLM\SYSTEM\CurrentControlSet\Services\XboxNetApiSvc 
+
