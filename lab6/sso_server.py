@@ -6,7 +6,7 @@ from requests_oauthlib.compliance_fixes import facebook_compliance_fix
 
 from dotenv import load_dotenv
 
-load_dotenv(dotenv_path="C:\\Users\\masli\\Downloads\\CyberSec\\lab6\\data.env")
+load_dotenv(dotenv_path="for better working - indicate here full path to your .env file")
 
 URL = os.environ.get("FB_URL")
 

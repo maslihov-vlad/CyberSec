@@ -20,8 +20,7 @@ gender, email etc.).
 - Windows 10 
 - Python
 - Flask
-- Ngrok
-- PyCharm
+- VSCODE
 
 
 ### Instructions:
@@ -47,4 +46,4 @@ FB_URL = "your facebook valid oauth redirect URI"
 ```
 python sso_server.py
 ```
-
+Link to the video: https://drive.google.com/file/d/1rRIQk0oNQZdUeufdB4yfhzEFGkS34cgk/view?usp=sharing
